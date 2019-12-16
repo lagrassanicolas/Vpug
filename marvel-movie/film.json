@@ -1,0 +1,29 @@
+{
+    "movies": [ 
+        {
+        "movie_id": "1",
+        "super_hero_name" : "captain america",
+        "movie_name": "captain america",
+        "superpower": "superforza",
+        "img": "captainamerica1.jpg",
+        "sequelImg" : ["captainamerica2.jpg", "captainamerica3.jpg" ]
+        },
+
+         {
+        "movie_id": "2",
+        "super_hero_name" : "doctor strange",
+        "movie_name": "doctor strange",
+        "superpower": "controllo della realtà",
+        "img": "doctorstrange.jpg"
+        },
+     
+        {
+        "movie_id": "3",
+        "super_hero_name" : "black panther",
+        "movie_name": "black panther",
+        "superpower": "spirito della pantera",
+        "img": "blackpanther.jpg"
+        }
+
+     ]
+    }
